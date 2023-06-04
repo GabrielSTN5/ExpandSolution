@@ -1,6 +1,6 @@
-<a href = "mailto:rosimeire.silva01@fatec.sp.gov.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-
 Rosimeire Helena (ScrumMaster)
+
+<a href = "mailto:rosimeire.silva01@fatec.sp.gov.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 Olá! Somos a empresa Expand Solutions, seja bem-vindo. Nesse espaço, esclareceremos quem somos e quais os objetivos da empresa. ✈️ 🚢
 
