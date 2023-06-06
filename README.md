@@ -1,3 +1,8 @@
+<div style="background-color:000">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E90&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E90C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+somos+o+grupo+ExpandSolution!+:%29)](https://git.io/typing-svg)
+
 Rosimeire Helena (ScrumMaster)
 
 <a href = "mailto:rosimeire.silva01@fatec.sp.gov.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
