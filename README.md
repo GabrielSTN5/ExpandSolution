@@ -23,6 +23,39 @@ Trabalhar com inovação, sempre zelando pela integridade e clareza de maneira a
 
 :red_circle: :white_circle: JIRA SOFTWARE: https://expandlogsolutions.atlassian.net :red_circle: :white_circle:
  
+ ## Requisitos Sprint 1
+
+-> Identificação das principais cadeias produtivas da RMVALE
+
+-> Identificação dos principais produtos importados e exportados
+
+-> Mapa regional indicando os principais pólos geradores de demanda e produção por cadeia produtiva
+ 
+![MicrosoftTeams-image (1)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/288c81cc-35c3-444d-955c-ec91b4d3b2b8)
+![MicrosoftTeams-image](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/d64b9d55-c7cc-4f0f-becb-5b79409a5022)
+ 
+ ## Requisitos Sprint 2
+ 
+-> Estrutura relacional de dados
+ 
+ ![MicrosoftTeams-image (2)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/12af76ba-dcc3-44fe-8f05-32da31311b26)
+ 
+ ## Requisitos Sprint 3 e 4
+ 
+-> Dashboard que permita avaliar a evolução das importações e exportações da RMVALE
+
+-> Análise e diagnóstico de potencial das cadeias produtivas em função da análise dos dados dispostos no dashboard
+ 
+ 
+![MicrosoftTeams-image (6)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/d5dd9630-625d-440b-a726-d1eca59be307)
+![MicrosoftTeams-image (5)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/59cee974-3c8b-46d3-8a57-3805104d1642)
+![MicrosoftTeams-image (4)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/a6516f11-1490-4c0a-a25e-6a4b81313760)
+![MicrosoftTeams-image (3)](https://github.com/ExpandSolution/ExpandSolution/assets/135040407/9b7864e6-04ee-4bc6-8694-179ce9da9081)
+
+ 
+
+ 
+ 
  ## :busts_in_silhouette: Equipe
 
 |        Nome         |       Função        |     GitHub                                               |    Avatar                                          |
